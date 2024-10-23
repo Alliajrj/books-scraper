@@ -21,5 +21,5 @@ Les informations des livres seront enregistrées dans des fichiers CSV pour chaq
 
 ## Organisation des fichiers
 Chaque catégorie a son propre dossier avec : </br>
--Un fichier CSV contenant les détails des livres.
+-Un fichier CSV contenant les détails des livres. </br>
 -Les images de couverture des livres.
